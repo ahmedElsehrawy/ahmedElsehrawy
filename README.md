@@ -1,10 +1,12 @@
 Hi 👋 My name is Ahmed Elsehrawy
 ================================
 
-Frontend Developer
+Software Engineer | Frontend-Focused | React & Next.js
 ------------------
 
-I am a frontend developer who loves React.
+I'm a Software Engineer with **4+ years of experience** building scalable, high-performance web applications. I specialize in frontend development with React and Next.js, while also having hands-on experience building backend services and integrating APIs.
+
+I enjoy solving complex engineering problems, optimizing application performance, and turning ideas into reliable products.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [aelsehrawy1999@gmail.com](mailto:aelsehrawy1999@gmail.com)
